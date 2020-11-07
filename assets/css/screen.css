@@ -17,7 +17,8 @@ html {
  }
 
 h1 {
-   font-size: 1.7em; 
+   font-size: 1.7em;
+   margin: .33em;
 }
 
 header {
@@ -30,10 +31,25 @@ p {
    margin-bottom: .5em;
 }
 
+#Information {
+   border: .33em solid #333333;
+}
+
+#Education {
+   border: .33em solid #333333;
+}
+
+#Experience {
+   border: .33em solid #333333;
+}
+
+#Skills {
+   border: .33em solid #333333;
+}
+
 nav {
    list-style-type: none;
    margin: 0;
-   margin-top: .33em;
    overflow: hidden;
    background-color: #333;
    overflow-wrap: normal;
