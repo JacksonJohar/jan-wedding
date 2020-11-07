@@ -48,7 +48,7 @@ nav a {
    display: block;
    color: white;
    text-align: center;
-   padding: 16px;
+   width: 25%;
    text-decoration: none;
 }
 
