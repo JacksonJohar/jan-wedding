@@ -41,6 +41,7 @@ nav {
    padding: 0;
    overflow: hidden;
    background-color: #333333;
+   width: 100%;
 }
 
 nav a {
@@ -50,6 +51,7 @@ nav a {
    color: white;
    padding: 16px;
    text-decoration: none;
+   width: 25%;
 }
 
 body {
