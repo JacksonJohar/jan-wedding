@@ -20,13 +20,8 @@ h1 {
    font-size: 1.7em; 
 }
 
-title {
-   padding: 1em;
-   padding-bottom: 1em;
-}
-
 header {
-   margin-bottom: 1em;
+   padding: 1em;
 }
 
 p {
@@ -38,9 +33,10 @@ p {
 nav {
    list-style-type: none;
    margin: 0;
-   padding: 0;
+   margin-top: .33em;
    overflow: hidden;
    background-color: #333;
+   overflow-wrap: normal;
 }
 
 nav a {
