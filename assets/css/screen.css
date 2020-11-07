@@ -8,14 +8,20 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
-* {
-   margin-left: 30px;
-}
+html {
+   font-family: "Petrona", "Hoefler Text", Georgia, "Times New Roman", Times, Roman, serif;
+   font-size: 1.125em;
+   line-height: 1.33333333em;
+   padding: 1.33333333em;
+   background: #FFFAF0;
+ }
 
 h1 {
-   font-size: 2.5em;
-   line-height: 1.1em; 
-   margin-left: 1em;
+   font-size: 1.7em; 
+}
+
+title {
+   padding: .5em;
 }
 
 header {
@@ -45,10 +51,21 @@ nav a {
    text-decoration: none;
 }
 
+body {
+   display: grid;
+   grid-template-columns: minmax(0.66666667em,1fr) minmax(min-content,45ch) minmax(0.66666667em,1fr)
+}
+
+header,
+footer,
+main,
+nav,
+section {
+  grid-column: 2 / 3;
+}
+
 h2 { 
- font-size: 1.2em; 
- line-height: 1.2em; 
- margin-bottom: 1em;
+ font-size: 1.33em;
  }
 
 h3 { 
@@ -69,6 +86,7 @@ img {
    height: 12em;
    object-fit: cover;
    margin: 1em;
+   float: center;
    border: .5em solid #333333;
 }
 
@@ -76,8 +94,15 @@ footer {
    width: 100%;
    bottom: 0em;
    background-color: #333333;
-   position: fixed;
    text-align: center;
    color: white;
 }
 
+.pfp {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   float: center;
+   grid-column: 2 / 3;
+}
