@@ -23,7 +23,9 @@ h1 {
 }
 
 header {
-   padding: 1em;
+   padding-bottom: 1em;
+   padding-right: 1em;
+   padding-left: 1em;
 }
 
 p {
@@ -45,7 +47,7 @@ p {
 }
 
 #Skills {
-   border: .33em solid #979697;
+   border: .33em solid #50056E;
 }
 
 nav {
