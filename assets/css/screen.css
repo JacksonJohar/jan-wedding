@@ -95,11 +95,13 @@ li {
 }
 
 footer {
-   width: 75%;
    bottom: 0em;
    background-color: #333333;
    text-align: center;
    color: white;
+   float: center;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 img {
