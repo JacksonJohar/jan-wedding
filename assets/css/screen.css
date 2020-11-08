@@ -96,6 +96,7 @@ li {
 
 footer {
    bottom: 0em;
+   font-size: .5em;
    background-color: #333333;
    text-align: center;
    color: white;
