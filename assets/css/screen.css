@@ -36,21 +36,41 @@ p {
 
 #Information {
    border: .33em solid #979697;
+   margin-bottom: .33em;
 }
 
 #Education {
    border: .33em solid #979697;
+   margin-bottom: .33em;
 }
 
 #Experience {
    border: .33em solid #979697;
+   margin-bottom: .33em;
 }
 
 #Skills {
    border: .33em solid #979697;
+   margin-bottom: .33em;
+}
+
+#hobbies {
+   border: .33em solid #979697;
+   margin-bottom: .33em;
+}
+
+#teams {
+   border: .33em solid #979697;
+   margin-bottom: .33em;
+}
+
+#games {
+   border: .33em solid #979697;
+   margin-bottom: .33em;
 }
 
 #abt {
+   margin-top: .5em;
    border: .33em solid #979697;
 }
 
