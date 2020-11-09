@@ -47,7 +47,18 @@ p {
 }
 
 #Skills {
-   border: .33em solid #50056E;
+   border: .33em solid #979697;
+}
+
+#abt {
+   border: .33em solid #979697;
+}
+
+#page {
+   margin-bottom: .5em;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
 }
 
 nav {
