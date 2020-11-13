@@ -97,12 +97,13 @@ p {
 
 nav {
    margin-top: .5em;
+   border: .2em solid #979697;
+   padding: .1em;
    list-style-type: none;
    margin-left: 0;
    margin-right: 0;
    margin-bottom: 0;
    overflow: hidden;
-   background-color: #333;
    overflow-wrap: normal;
 }
 
