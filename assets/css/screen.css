@@ -37,41 +37,55 @@ p {
 #Information {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
+
+#Information a:link, a:visited {
+   color: white;
+   background-color: transparent;
+   text-decoration: underline;
+ }
 
 #Education {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #Experience {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #Skills {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #hobbies {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #teams {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #games {
    border: .33em solid #979697;
    margin-bottom: .33em;
+   padding: .2em;
 }
 
 #abt {
    margin-top: .5em;
    border: .33em solid #979697;
+   padding: .2em;
 }
 
 #page {
