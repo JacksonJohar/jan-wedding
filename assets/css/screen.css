@@ -167,3 +167,7 @@ img {
    grid-column: 2 / 3;
    border: .33em solid #979697;
 }
+
+.petPic {
+   margin-bottom: .5em;
+}
