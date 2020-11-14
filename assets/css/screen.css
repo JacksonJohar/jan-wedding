@@ -135,11 +135,10 @@ h2 {
 
 h3 { 
  font-size: 1.1em; 
- line-height: 1.2em;
  }
 
-ul, ol { 
-   margin-bottom: 1em
+ #Experience ul, ol { 
+   list-style-type: circle;
 }
 
 li {
@@ -169,5 +168,9 @@ img {
 }
 
 .petPic {
-   margin-bottom: .5em;
+   margin-bottom: .33em;
+}
+
+.pfp {
+
 }
