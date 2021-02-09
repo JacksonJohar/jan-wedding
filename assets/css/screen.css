@@ -92,9 +92,10 @@ nav {
  /* non-essential decorative styles */
  nav {
    border: .2em solid #1A3A70;
+   padding: .1em;
  }
  a {
-   padding: 5px;
+   padding: .1em;
  }
 
 
