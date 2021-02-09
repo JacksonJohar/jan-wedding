@@ -88,11 +88,10 @@ nav {
    border: .2em solid #03033b;
    padding: .1em;
    list-style-type: none;
-   margin-left: .1em;
-   margin-right: .1em;
+   margin-left: 0em;
+   margin-right: 0em;
    margin-bottom: 0;
-   overflow: hidden;
-   overflow-wrap: normal;
+   overflow: auto;
 }
 
 nav a {
@@ -101,6 +100,8 @@ nav a {
    color: black;
    text-align: center;
    width: 25%;
+   padding-left: .1em;
+   padding-right: .1em;
    text-decoration: none;
 }
 
