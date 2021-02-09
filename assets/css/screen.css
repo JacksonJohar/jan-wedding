@@ -111,7 +111,6 @@ body {
 header,
 footer,
 main,
-nav,
 section {
   grid-column: 2 / 3;
 }
