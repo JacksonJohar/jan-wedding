@@ -13,8 +13,8 @@ html {
    font-size: 1.125em;
    line-height: 1.33333333em;
    padding: 1.33333333em;
-   background: #3C3B3B;
-   color: white;
+   background: #889bae;
+   color: black;
  }
 
 h1 {
@@ -35,56 +35,56 @@ p {
 }
 
 #Information {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #Information a:link, a:visited {
-   color: white;
+   color: black;
    background-color: transparent;
    text-decoration: underline;
  }
 
 #Education {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #Experience {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #Skills {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #hobbies {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #teams {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #games {
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #abt {
    margin-top: .5em;
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
    padding: .2em;
 }
 
@@ -97,7 +97,7 @@ p {
 
 nav {
    margin-top: .5em;
-   border: .2em solid #979697;
+   border: .2em solid #03033b;
    padding: .1em;
    list-style-type: none;
    margin-left: 0;
@@ -110,7 +110,7 @@ nav {
 nav a {
    float: left;
    display: block;
-   color: white;
+   color: black;
    text-align: center;
    width: 25%;
    text-decoration: none;
@@ -148,9 +148,9 @@ li {
 footer {
    bottom: 0em;
    font-size: .5em;
-   background-color: #3C3B3B;
+   background-color: #889bae;
    text-align: center;
-   color: white;
+   color: black;
    float: center;
    margin-left: auto;
    margin-right: auto;
@@ -164,7 +164,7 @@ img {
    width: 50%;
    float: center;
    grid-column: 2 / 3;
-   border: .33em solid #979697;
+   border: .33em solid #03033b;
 }
 
 .petPic {
