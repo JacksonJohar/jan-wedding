@@ -34,49 +34,37 @@ p {
    margin-bottom: .5em;
 }
 
-#Information {
+#When {
    border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
-#Information a:link, a:visited {
+#Where a:link, a:visited {
    color: black;
    background-color: transparent;
    text-decoration: underline;
  }
 
-#Education {
+#Where{
    border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
-#Experience {
+#friday {
    border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
-#Skills {
+#saturday {
    border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
 }
 
-#hobbies {
-   border: .33em solid #03033b;
-   margin-bottom: .33em;
-   padding: .2em;
-}
-
-#teams {
-   border: .33em solid #03033b;
-   margin-bottom: .33em;
-   padding: .2em;
-}
-
-#games {
+#sunday {
    border: .33em solid #03033b;
    margin-bottom: .33em;
    padding: .2em;
@@ -167,7 +155,7 @@ img {
    border: .33em solid #03033b;
 }
 
-.petPic {
+.wedPic {
    margin-bottom: .33em;
 }
 
