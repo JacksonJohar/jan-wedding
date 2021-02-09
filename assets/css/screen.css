@@ -88,20 +88,19 @@ nav {
    border: .2em solid #1A3A70;
    padding: .1em;
    list-style-type: none;
-   margin-left: 0em;
-   margin-right: 0em;
-   margin-bottom: 0;
-   overflow: hidden;
-   overflow-wrap: normal;
+   text-align: center;
+   
 }
 
 nav a {
-   float: left;
-   display: block;
+   display: inline-block;
    color: black;
-   text-align: center;
-   width: 25%;
+   padding: .1em;
    text-decoration: none;
+}
+
+nav li {
+   display: inline
 }
 
 body {
@@ -112,6 +111,7 @@ body {
 header,
 footer,
 main,
+nav,
 section {
   grid-column: 2 / 3;
 }
