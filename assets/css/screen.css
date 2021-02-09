@@ -92,6 +92,7 @@ nav {
    margin-right: 0em;
    margin-bottom: 0;
    overflow: auto;
+   overflow-wrap: normal;
 }
 
 nav a {
@@ -99,9 +100,9 @@ nav a {
    display: block;
    color: black;
    text-align: center;
-   width: 25%;
-   padding-left: .1em;
    padding-right: .1em;
+   padding-left: .1em;
+   width: 25%;
    text-decoration: none;
 }
 
