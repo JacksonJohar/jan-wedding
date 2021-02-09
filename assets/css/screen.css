@@ -99,6 +99,7 @@ p {
 
 .nav a {
    display: inline-block;
+   width: 25%;
    padding: 0.1em;
 }
 
