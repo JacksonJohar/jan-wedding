@@ -83,25 +83,24 @@ p {
    text-align: center;
 }
 
-nav {
-   margin-top: .5em;
+.nav {
    border: .2em solid #1A3A70;
    padding: .1em;
-   list-style-type: none;
+   list-style: none;
+   margin: 0;
+   padding:0;
    text-align: center;
-   
 }
 
-nav a {
-   display: inline-block;
-   color: black;
-   padding: .1em;
-   text-decoration: none;
-}
-
-nav li {
+.nav li {
    display: inline
 }
+
+.nav a {
+   display: inline-block;
+   padding: 0.1em;
+}
+
 
 body {
    display: grid;
