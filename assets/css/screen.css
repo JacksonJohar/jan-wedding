@@ -91,7 +91,7 @@ nav {
    margin-left: 0em;
    margin-right: 0em;
    margin-bottom: 0;
-   overflow: auto;
+   overflow: hidden;
    overflow-wrap: normal;
 }
 
