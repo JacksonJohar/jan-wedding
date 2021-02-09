@@ -13,7 +13,7 @@ html {
    font-size: 1.125em;
    line-height: 1.33333333em;
    padding: 1.33333333em;
-   background: #889bae;
+   background: #ADC5DD;
    color: black;
  }
 
@@ -35,7 +35,7 @@ p {
 }
 
 #When {
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    margin-bottom: .33em;
    padding: .2em;
 }
@@ -47,32 +47,32 @@ p {
  }
 
 #Where{
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #friday {
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #saturday {
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #sunday {
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    margin-bottom: .33em;
    padding: .2em;
 }
 
 #abt {
    margin-top: .5em;
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
    padding: .2em;
 }
 
@@ -85,7 +85,7 @@ p {
 
 nav {
    margin-top: .5em;
-   border: .2em solid #03033b;
+   border: .2em solid #1A3A70;
    padding: .1em;
    list-style-type: none;
    margin-left: 0em;
@@ -100,8 +100,6 @@ nav a {
    display: block;
    color: black;
    text-align: center;
-   padding-right: .1em;
-   padding-left: .1em;
    width: 25%;
    text-decoration: none;
 }
@@ -114,7 +112,6 @@ body {
 header,
 footer,
 main,
-nav,
 section {
   grid-column: 2 / 3;
 }
@@ -138,7 +135,7 @@ li {
 footer {
    bottom: 0em;
    font-size: .5em;
-   background-color: #889bae;
+   background-color: #ADC5DD;
    text-align: center;
    color: black;
    float: center;
@@ -154,7 +151,7 @@ img {
    width: 50%;
    float: center;
    grid-column: 2 / 3;
-   border: .33em solid #03033b;
+   border: .33em solid #1A3A70;
 }
 
 .wedPic {
