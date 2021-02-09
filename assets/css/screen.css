@@ -87,6 +87,7 @@ p {
    border: .2em solid #1A3A70;
    padding: .1em;
    list-style: none;
+   white-space: nowrap;
    margin: 0;
    padding:0;
    text-align: center;
